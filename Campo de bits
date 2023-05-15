@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdio_ext.h>
-
+//F
 struct estadoiluminacion {
   unsigned int luzprincipal : 1; 
   unsigned int luzauxiliar : 1;
