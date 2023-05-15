@@ -2,7 +2,7 @@ union {
     float valor;
     unsigned char lugar[4];
 }conversor;
-
+//F
 int main()
 {
     printf("Ingrese el valor que quiere ver en hexadecimal\n");
