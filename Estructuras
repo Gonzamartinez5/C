@@ -1,6 +1,6 @@
 #include <stdio.h>
 #define LIM 12
-
+//F
 typedef struct alumnos {
   char nombre [LIM];
   char apellido [LIM];
