@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+//F
 struct Persona {
   char nombre[50];
   char nacionalidad[50];
